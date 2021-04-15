@@ -7,7 +7,7 @@ COMO INSTALA
 cd baneredielsontube
 
 AGORA MUDE O NOME INSCREVA-SE QUE ESTA EM AMARELO TROQUE PARA SEU NICK
-nano baner .sh
+nano baner.sh
 DEPOIS CTR X e aperte Y e ENTER para salva o arquivo
 
 AGORA O PROXIMO COMANDO
