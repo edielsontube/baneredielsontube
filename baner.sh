@@ -2,7 +2,7 @@
 
 cd /data/data/com.termux/files/usr/etc
 rm -rf motd
-cd ~/baner
+cd ~/baneredielsontube
 pkg install figlet -y
 apt-get install ruby -y
 gem install lolcat 
